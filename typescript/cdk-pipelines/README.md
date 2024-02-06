@@ -19,8 +19,8 @@ git push origin main
 ## Deploying
 
 ```bash
-$ npm install
-$ npm run cdk -- deploy PipelineStack
+npm install
+npm run cdk -- deploy PipelineStack
 ```
 
 ## Clean up
