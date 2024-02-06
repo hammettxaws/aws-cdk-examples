@@ -11,7 +11,7 @@ These are planned to be broken down into separate examples.
 
 ## Preparation
 
-The CodePipeline Pipeline will trigger based on changes from a CodeCommit Repository `example`. This is required for the pipeline to successfully run, but not required for this stack to deploy.
+The CodePipeline Pipeline will trigger based on changes from a CodeCommit Repository `ec2-example`. This is required for the pipeline to successfully run, but not required for this stack to deploy.
 
 For instructions on Creating a CodeCommit Repository see the [CodeCommit documentation](https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-create-repository.html) or review the details below.
 
