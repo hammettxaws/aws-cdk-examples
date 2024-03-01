@@ -1,0 +1,20 @@
+{
+  "name": "cdk-pipelines",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "cdk": "cdk"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.14",
+    "aws-cdk": "2.126.0",
+    "ts-node": "^10.9.2",
+    "typescript": "~5.3.3"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "2.126.0",
+    "constructs": "^10.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
